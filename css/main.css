@@ -1,0 +1,31 @@
+
+body{
+    background-color: #f1f1f1;
+}
+h1{
+    font-size: 28px;
+    font-style: normal;
+    font-family: sans-serif;
+    color: #262626;
+    font-weight: 500;
+}
+#pr1,#pr2,ol,ul{
+    font-size: 16px;
+    line-height: 28px;
+    color: #1c1f22;
+    font-weight: 400;
+}
+h2{
+    font-size: 25px;
+    font-style: normal;
+    font-family: sans-serif;
+    color: #262626;
+    font-weight: 500; 
+}
+h3{
+    font-size: 19px;
+    font-style: normal;
+    font-family: sans-serif;
+    color: #262626;
+    font-weight: 500
+}
